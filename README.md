@@ -14,6 +14,37 @@
 import robot
 robot.serve_forver("Hell Or World")
 ```
+```c
+#include <stdio.h>
+int main(int argc, char argv[]){
+   printf("%s", "Hello World");
+}
+```
+```c++
+#include <iostream.h>
+#include <stdio.h>
+using namespace std;
+cout<<"Who Says THat we cant"<<endl;
+```
+```ruby
+require('redcarpet')
+markdown = Redcarpet.new("Hello World")
+puts markdown.to_html()
+```
+```rust
+use std::io
+fn main() {
+    println!("Type something:");
+
+    let mut input = String::new();
+
+    io::stdin()
+        .read_line(&mut input)
+        .expect("Failed to read line");
+
+    println!("You typed: {}", input.trim());
+}
+```
 ## ❄️TEAM
 1. James
    - Senior Software Engineer
