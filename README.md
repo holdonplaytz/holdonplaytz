@@ -9,9 +9,9 @@
 > [!CAUTION]
 > Don't Contact When you are not ready for your Job to be Done, Because We mean Business.
 ---
-- [x] # Projects Done ALready
+- [x] ## Projects Done ALready
 
-❄️ # TEAM
+❄️ ## TEAM
 1. James
    - Senior Software Engineer
      - User UX and UI Design and System Administration
