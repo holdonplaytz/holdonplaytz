@@ -10,3 +10,12 @@
 > Don't Contact When you are not ready for your Job to be Done, Because We mean Business.
 
 - [x] Projects Done ALready
+
+❄️ TEAM
+1. James
+   - Senior Software Engineer
+     - User UX and UI Design and System Administration
+2. Joe
+   - Arts And Entertainment
+     - User Interface and Graphics Designing
+       
