@@ -11,7 +11,7 @@
 ---
 # Projects Done ALready
 
-❄️ ## TEAM
+## ❄️TEAM
 1. James
    - Senior Software Engineer
      - User UX and UI Design and System Administration
